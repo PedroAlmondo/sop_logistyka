@@ -1,0 +1,39 @@
+# Byte-compiled and cached files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Version control
+.git/
+.gitignore
+
+# Docker artifacts
+Dockerfile*
+.dockerignore
+
+# Node.js-related files (if you use a frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Test artifacts
+.coverage
+htmlcov/
+pytest_cache/
